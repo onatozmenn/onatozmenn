@@ -1,0 +1,34 @@
+name: Update recent pull requests
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Collect and write the six most recently updated pull requests
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh search prs \
+            --author "${{ github.repository_owner }}" \
+            --sort updated --order desc --limit 6 \
+            --json title,url,repository \
+            --jq '.[] | "- [\(.title)](\(.url)) on **\(.repository.nameWithOwner)**"' \
+            | python .github/scripts/update_readme.py
+
+      - name: Commit if anything changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --quiet --cached && echo "no change" && exit 0
+          git commit -m "Update recent pull requests"
+          git push
