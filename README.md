@@ -12,10 +12,10 @@ Hi I'm Onat, I build AI tools and I love contributing to open source 👀​
 ### Recent pull requests
 
 <!-- prs:start -->
-- [The lockup gives the wordmark room, and the manifest names a real colour](https://github.com/onatozmenn/vow/pull/189) on **onatozmenn/vow**
-- [The brand kit moves to assets/brand and the wordmark is outlined](https://github.com/onatozmenn/vow/pull/187) on **onatozmenn/vow**
-- [The brand kit is in the repository, and the README leads with it](https://github.com/onatozmenn/vow/pull/185) on **onatozmenn/vow**
-- [A for can stop early](https://github.com/onatozmenn/vow/pull/183) on **onatozmenn/vow**
-- [Io.epoch reads the machine's clock](https://github.com/onatozmenn/vow/pull/181) on **onatozmenn/vow**
-- [The editor can see what a file declares](https://github.com/onatozmenn/vow/pull/179) on **onatozmenn/vow**
+- [fix: set source_id on RecursiveDocumentSplitter chunks](https://github.com/deepset-ai/haystack/pull/12155) on **deepset-ai/haystack**
+- [feat(mcp): add Streamable HTTP with SSE fallback](https://github.com/iflytek/astron-agent/pull/1552) on **iflytek/astron-agent**
+- [A library that ships with the compiler](https://github.com/deed-lang/deed/pull/270) on **deed-lang/deed**
+- [An arm can name more than one variant](https://github.com/deed-lang/deed/pull/268) on **deed-lang/deed**
+- [Measure what an argument costs and what a name costs](https://github.com/deed-lang/deed/pull/266) on **deed-lang/deed**
+- [Count the operations that hand a capability back](https://github.com/deed-lang/deed/pull/264) on **deed-lang/deed**
 <!-- prs:end -->
