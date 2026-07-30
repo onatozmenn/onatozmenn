@@ -12,10 +12,10 @@ Hi I'm Onat, I build AI tools and I love contributing to open source 👀​
 ### Recent pull requests
 
 <!-- prs:start -->
-- [Enable ruff's line-reducing rules and apply the safe fixes](https://github.com/OpenHands/software-agent-sdk/pull/4281) on **OpenHands/software-agent-sdk**
-- [Read back every sentence the CLI prints](https://github.com/deed-lang/deed/pull/324) on **deed-lang/deed**
-- [Implement textDocument/documentHighlight](https://github.com/deed-lang/deed/pull/322) on **deed-lang/deed**
-- [Add rendered message coverage for deed-typeck diagnostics](https://github.com/deed-lang/deed/pull/315) on **deed-lang/deed**
-- [Three lines of the renderer nothing held](https://github.com/deed-lang/deed/pull/320) on **deed-lang/deed**
-- [Show the tiers as inlay hints](https://github.com/deed-lang/deed/pull/319) on **deed-lang/deed**
+- [Strengthen mismatch diagnostic test to enforce single-error behavior](https://github.com/deed-lang/deed/pull/460) on **deed-lang/deed**
+- [Strengthen imported-effect WRONG_ARITY diagnostic test](https://github.com/deed-lang/deed/pull/462) on **deed-lang/deed**
+- [Strengthen `all_arms_must_agree` test to pin rendered diagnostic wording](https://github.com/deed-lang/deed/pull/453) on **deed-lang/deed**
+- [Strengthen alias-cycle test to assert diagnostic wording](https://github.com/deed-lang/deed/pull/458) on **deed-lang/deed**
+- [Strengthen type-mismatch test to pin `Money` diagnostic wording](https://github.com/deed-lang/deed/pull/455) on **deed-lang/deed**
+- [Strengthen `+` string/int mismatch diagnostic test coverage](https://github.com/deed-lang/deed/pull/461) on **deed-lang/deed**
 <!-- prs:end -->
