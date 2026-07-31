@@ -12,10 +12,5 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [Canonical ABI: how Deed values cross a component boundary](https://github.com/deed-lang/deed/pull/750) on **deed-lang/deed**
-- [Offline builds with provenance: --lock and --locked flags](https://github.com/deed-lang/deed/pull/756) on **deed-lang/deed**
-- [Add `deed build --component`: compile a Deed module to a WebAssembly component](https://github.com/deed-lang/deed/pull/747) on **deed-lang/deed**
-- [Add deed-fetch: dependency fetch/verify/cache with no-execution guarantee](https://github.com/deed-lang/deed/pull/755) on **deed-lang/deed**
-- [Add compiled trap span mapping to `deed run --compiled`](https://github.com/deed-lang/deed/pull/758) on **deed-lang/deed**
-- [feat(fuzz): corpus replay on every build, 30-min scheduled fuzz run, automatic corpus entries](https://github.com/deed-lang/deed/pull/757) on **deed-lang/deed**
+_Nothing recent._
 <!-- prs:end -->
