@@ -7,7 +7,7 @@
 
 </div>
 
-Hi I'm Onat, I build AI tools and I love contributing to open source 👀​
+Hi I'm Onat, I like shipping AI products that make teams more efficient and I love contributing to open source 👀​
 
 ### Recent pull requests
 
