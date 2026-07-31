@@ -12,10 +12,10 @@ Hi I'm Onat, I build AI tools and I love contributing to open source 👀​
 ### Recent pull requests
 
 <!-- prs:start -->
-- [Strengthen mismatch diagnostic test to enforce single-error behavior](https://github.com/deed-lang/deed/pull/460) on **deed-lang/deed**
-- [Strengthen imported-effect WRONG_ARITY diagnostic test](https://github.com/deed-lang/deed/pull/462) on **deed-lang/deed**
-- [Strengthen `all_arms_must_agree` test to pin rendered diagnostic wording](https://github.com/deed-lang/deed/pull/453) on **deed-lang/deed**
-- [Strengthen alias-cycle test to assert diagnostic wording](https://github.com/deed-lang/deed/pull/458) on **deed-lang/deed**
-- [Strengthen type-mismatch test to pin `Money` diagnostic wording](https://github.com/deed-lang/deed/pull/455) on **deed-lang/deed**
-- [Strengthen `+` string/int mismatch diagnostic test coverage](https://github.com/deed-lang/deed/pull/461) on **deed-lang/deed**
+- [Canonical ABI: how Deed values cross a component boundary](https://github.com/deed-lang/deed/pull/750) on **deed-lang/deed**
+- [Offline builds with provenance: --lock and --locked flags](https://github.com/deed-lang/deed/pull/756) on **deed-lang/deed**
+- [Add `deed build --component`: compile a Deed module to a WebAssembly component](https://github.com/deed-lang/deed/pull/747) on **deed-lang/deed**
+- [Add deed-fetch: dependency fetch/verify/cache with no-execution guarantee](https://github.com/deed-lang/deed/pull/755) on **deed-lang/deed**
+- [Add compiled trap span mapping to `deed run --compiled`](https://github.com/deed-lang/deed/pull/758) on **deed-lang/deed**
+- [feat(fuzz): corpus replay on every build, 30-min scheduled fuzz run, automatic corpus entries](https://github.com/deed-lang/deed/pull/757) on **deed-lang/deed**
 <!-- prs:end -->
