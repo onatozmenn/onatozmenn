@@ -17,13 +17,9 @@ jobs:
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          gh search prs \
-            --author "${{ github.repository_owner }}" \
-            -repo:deed-lang/deed \
-            -repo:deed-lang/deed-lang.github.io \
-            --sort updated --order desc --limit 6 \
-            --json title,url,repository \
-            --jq '.[] | "- [\(.title)](\(.url)) on **\(.repository.nameWithOwner)**"' \
+          gh api \
+            "/search/issues?q=author:${{ github.repository_owner }}+type:pr+-repo:deed-lang/deed+-repo:deed-lang/deed-lang.github.io&sort=updated&order=desc&per_page=6" \
+            --jq '.items[] | "- [\(.title)](\(.html_url)) on **\(.repository_url | sub(".*/repos/"; ""))**"' \
             | python .github/scripts/update_readme.py
 
       - name: Commit if anything changed
