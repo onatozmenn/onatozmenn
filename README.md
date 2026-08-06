@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
+- [fix(browser): a browser tool that cannot start should not fail the conversation](https://github.com/OpenHands/software-agent-sdk/pull/4342) on **OpenHands/software-agent-sdk**
+- [fix(acp): abort the turn immediately when close() lands mid-prompt](https://github.com/OpenHands/software-agent-sdk/pull/4334) on **OpenHands/software-agent-sdk**
 - [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
 - [Replace mock risk scores with a real open-data pipeline](https://github.com/zeynepdorukk/Glorisk/pull/2) on **zeynepdorukk/Glorisk**
 - [Deploy to GitHub Pages via Actions](https://github.com/zeynepdorukk/Glorisk/pull/1) on **zeynepdorukk/Glorisk**
-- [fix(browser): a browser tool that cannot start should not fail the conversation](https://github.com/OpenHands/software-agent-sdk/pull/4342) on **OpenHands/software-agent-sdk**
-- [fix(acp): abort the turn immediately when close() lands mid-prompt](https://github.com/OpenHands/software-agent-sdk/pull/4334) on **OpenHands/software-agent-sdk**
 - [Enable ruff's line-reducing rules and apply the safe fixes](https://github.com/OpenHands/software-agent-sdk/pull/4281) on **OpenHands/software-agent-sdk**
 <!-- prs:end -->
