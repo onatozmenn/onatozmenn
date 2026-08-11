@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
+- [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
+- [fix(acp): price cache and thought tokens, and stop stacking derived cost](https://github.com/OpenHands/software-agent-sdk/pull/4444) on **OpenHands/software-agent-sdk**
+- [fix(tools): ship the browser recording JS helpers in the wheel](https://github.com/OpenHands/software-agent-sdk/pull/4445) on **OpenHands/software-agent-sdk**
+- [fix(evals): persist eval name on edit so renames actually stick](https://github.com/future-agi/future-agi/pull/1850) on **future-agi/future-agi**
 - [feat(hooks): implement prompt-based evaluation](https://github.com/OpenHands/software-agent-sdk/pull/4160) on **OpenHands/software-agent-sdk**
 - [fix(model_cost): resync backup cost map with canonical and guard against drift](https://github.com/BerriAI/litellm/pull/34527) on **BerriAI/litellm**
-- [feat(provider/google): support JSON Schema for structured outputs via `useResponseJsonSchema`](https://github.com/vercel/ai/pull/18325) on **vercel/ai**
-- [fix(browser): a browser tool that cannot start should not fail the conversation](https://github.com/OpenHands/software-agent-sdk/pull/4342) on **OpenHands/software-agent-sdk**
-- [fix(acp): abort the turn immediately when close() lands mid-prompt](https://github.com/OpenHands/software-agent-sdk/pull/4334) on **OpenHands/software-agent-sdk**
-- [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
 <!-- prs:end -->
