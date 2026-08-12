@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
-- [fix(acp): price cache and thought tokens, and stop stacking derived cost](https://github.com/OpenHands/software-agent-sdk/pull/4444) on **OpenHands/software-agent-sdk**
+- [ci: look for the docs feature branch in the contributor's fork](https://github.com/OpenHands/software-agent-sdk/pull/4467) on **OpenHands/software-agent-sdk**
+- [fix(responses): initialize completed_response on the bridge and MCP gateway streaming iterators](https://github.com/BerriAI/litellm/pull/35425) on **BerriAI/litellm**
+- [Fix typo in analytics setting description](https://github.com/egoist/waku/pull/22) on **egoist/waku**
 - [fix(tools): ship the browser recording JS helpers in the wheel](https://github.com/OpenHands/software-agent-sdk/pull/4445) on **OpenHands/software-agent-sdk**
-- [fix(evals): persist eval name on edit so renames actually stick](https://github.com/future-agi/future-agi/pull/1850) on **future-agi/future-agi**
 - [feat(hooks): implement prompt-based evaluation](https://github.com/OpenHands/software-agent-sdk/pull/4160) on **OpenHands/software-agent-sdk**
-- [fix(model_cost): resync backup cost map with canonical and guard against drift](https://github.com/BerriAI/litellm/pull/34527) on **BerriAI/litellm**
+- [docs(hooks): document prompt-based evaluation](https://github.com/OpenHands/docs/pull/639) on **OpenHands/docs**
 <!-- prs:end -->
