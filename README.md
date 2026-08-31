@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(db): honor SQLite pool settings](https://github.com/OpenHands/automation/pull/382) on **OpenHands/automation**
-- [fix(agent): keep terminal prefix aliases from doubling an existing executable](https://github.com/OpenHands/software-agent-sdk/pull/4471) on **OpenHands/software-agent-sdk**
-- [Support wildcards in instance-to-host transfers](https://github.com/canonical/multipass/pull/5096) on **canonical/multipass**
-- [fix(extensions): avoid duplicate .git suffix in GitHub shorthand](https://github.com/OpenHands/software-agent-sdk/pull/4524) on **OpenHands/software-agent-sdk**
+- [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
+- [fix(anthropic): import NotRequired from typing_extensions](https://github.com/BerriAI/litellm/pull/38895) on **BerriAI/litellm**
 - [fix(evals): persist eval name on edit so renames actually stick](https://github.com/future-agi/future-agi/pull/1850) on **future-agi/future-agi**
-- [fix(windows): open audit log for resync](https://github.com/christopherkarani/ryk/pull/186) on **christopherkarani/ryk**
+- [Add paid-date timeframe filters to customer total spent](https://github.com/woocommerce/woocommerce/pull/66819) on **woocommerce/woocommerce**
+- [fix(evaluations): warn when preprocessing does not produce the kwargs an eval needs](https://github.com/future-agi/future-agi/pull/1851) on **future-agi/future-agi**
+- [fix(responses): reject unsupported reasoning effort](https://github.com/BerriAI/litellm/pull/38897) on **BerriAI/litellm**
 <!-- prs:end -->
