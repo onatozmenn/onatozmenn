@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
+- [Add Deed MCP server](https://github.com/punkpeye/awesome-mcp-servers/pull/12153) on **punkpeye/awesome-mcp-servers**
 - [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
 - [fix(anthropic): import NotRequired from typing_extensions](https://github.com/BerriAI/litellm/pull/38895) on **BerriAI/litellm**
 - [fix(evals): persist eval name on edit so renames actually stick](https://github.com/future-agi/future-agi/pull/1850) on **future-agi/future-agi**
 - [Add paid-date timeframe filters to customer total spent](https://github.com/woocommerce/woocommerce/pull/66819) on **woocommerce/woocommerce**
 - [fix(evaluations): warn when preprocessing does not produce the kwargs an eval needs](https://github.com/future-agi/future-agi/pull/1851) on **future-agi/future-agi**
-- [fix(responses): reject unsupported reasoning effort](https://github.com/BerriAI/litellm/pull/38897) on **BerriAI/litellm**
 <!-- prs:end -->
