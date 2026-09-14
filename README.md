@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [Support wildcards in instance-to-host transfers](https://github.com/canonical/multipass/pull/5096) on **canonical/multipass**
-- [fix(tools): ship the browser recording JS helpers in the wheel](https://github.com/OpenHands/software-agent-sdk/pull/4445) on **OpenHands/software-agent-sdk**
-- [fix(google-common): send functionCallingConfig.mode as the uppercase Gemini enum](https://github.com/langchain-ai/langchainjs/pull/11288) on **langchain-ai/langchainjs**
-- [Add Deed MCP server](https://github.com/punkpeye/awesome-mcp-servers/pull/12153) on **punkpeye/awesome-mcp-servers**
 - [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
+- [fix(responses): reject unsupported reasoning effort](https://github.com/BerriAI/litellm/pull/38897) on **BerriAI/litellm**
+- [Support wildcards in instance-to-host transfers](https://github.com/canonical/multipass/pull/5096) on **canonical/multipass**
+- [fix(responses): initialize completed_response on the MCP gateway streaming iterator](https://github.com/BerriAI/litellm/pull/35425) on **BerriAI/litellm**
+- [test(ui): cover auto-router tier model replacement](https://github.com/BerriAI/litellm/pull/38896) on **BerriAI/litellm**
 - [fix(anthropic): import NotRequired from typing_extensions](https://github.com/BerriAI/litellm/pull/38895) on **BerriAI/litellm**
 <!-- prs:end -->
