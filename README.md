@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [feat(provider/google): support JSON Schema for structured outputs via `useResponseJsonSchema`](https://github.com/vercel/ai/pull/18325) on **vercel/ai**
-- [fix(acp): abort the turn immediately when close() lands mid-prompt](https://github.com/OpenHands/software-agent-sdk/pull/4334) on **OpenHands/software-agent-sdk**
-- [Support wildcards in instance-to-host transfers](https://github.com/canonical/multipass/pull/5096) on **canonical/multipass**
-- [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
-- [fix(responses): reject unsupported reasoning effort](https://github.com/BerriAI/litellm/pull/38897) on **BerriAI/litellm**
-- [fix(responses): initialize completed_response on the MCP gateway streaming iterator](https://github.com/BerriAI/litellm/pull/35425) on **BerriAI/litellm**
+- [fix(typescript): forward ACP data-dir isolation flag](https://github.com/OpenHands/software-agent-sdk/pull/5172) on **OpenHands/software-agent-sdk**
+- [fix(settings): refresh profile list even when title cleanup fails](https://github.com/OpenHands/OpenHands/pull/17521) on **OpenHands/OpenHands**
+- [fix(sdk): gate reasoning_effort on exact parameter support](https://github.com/OpenHands/software-agent-sdk/pull/5174) on **OpenHands/software-agent-sdk**
+- [fix(repo-monitor): honor AUTOMATION_MODEL profile](https://github.com/OpenHands/extensions/pull/606) on **OpenHands/extensions**
+- [fix(iterate): ship real vendor manifest dirs for Codex install](https://github.com/OpenHands/extensions/pull/607) on **OpenHands/extensions**
+- [fix(add-skill): resolve script path and install scope in docs](https://github.com/OpenHands/extensions/pull/608) on **OpenHands/extensions**
 <!-- prs:end -->
