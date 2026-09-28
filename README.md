@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(acp): abort the turn immediately when close() lands mid-prompt](https://github.com/OpenHands/software-agent-sdk/pull/4334) on **OpenHands/software-agent-sdk**
-- [fix(acp): price cache and thought tokens, and stop stacking derived cost](https://github.com/OpenHands/software-agent-sdk/pull/4444) on **OpenHands/software-agent-sdk**
 - [fix(tools): ship the browser recording JS helpers in the wheel](https://github.com/OpenHands/software-agent-sdk/pull/4445) on **OpenHands/software-agent-sdk**
-- [fix(transport): bound the incoming line buffer in AsyncRwTransport](https://github.com/modelcontextprotocol/rust-sdk/pull/1049) on **modelcontextprotocol/rust-sdk**
-- [fix(evaluations): warn when preprocessing does not produce the kwargs an eval needs](https://github.com/future-agi/future-agi/pull/1851) on **future-agi/future-agi**
-- [fix(evals): persist eval name on edit so renames actually stick](https://github.com/future-agi/future-agi/pull/1850) on **future-agi/future-agi**
+- [fix(sdk): keep conversations alive when MCP startup fails](https://github.com/OpenHands/software-agent-sdk/pull/5345) on **OpenHands/software-agent-sdk**
+- [ci: look for the docs feature branch in the contributor's fork](https://github.com/OpenHands/software-agent-sdk/pull/4467) on **OpenHands/software-agent-sdk**
+- [feat(cli): honor NO_COLOR and render plain output when piped](https://github.com/elastic/cli/pull/689) on **elastic/cli**
+- [docs: ship skills/elastic/SKILL.md for agent invocation](https://github.com/elastic/cli/pull/688) on **elastic/cli**
+- [fix(file_editor): give str_replace snippets the full leading context window](https://github.com/OpenHands/software-agent-sdk/pull/4472) on **OpenHands/software-agent-sdk**
 <!-- prs:end -->
