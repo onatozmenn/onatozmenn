@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(iterate): ship real vendor manifest dirs for Codex install](https://github.com/OpenHands/extensions/pull/607) on **OpenHands/extensions**
-- [fix(settings): refresh profile list even when title cleanup fails](https://github.com/OpenHands/OpenHands/pull/17521) on **OpenHands/OpenHands**
-- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
 - [fix(agent-server): surface HTTP error body in MCP probe failures](https://github.com/OpenHands/software-agent-sdk/pull/5346) on **OpenHands/software-agent-sdk**
+- [fix(es): emit real helpers subtree in cli-schema output](https://github.com/elastic/cli/pull/695) on **elastic/cli**
+- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
 - [Support wildcards in instance-to-host transfers](https://github.com/canonical/multipass/pull/5096) on **canonical/multipass**
-- [fix(sdk): guard get_env against failing dotenv lookup](https://github.com/OpenHands/software-agent-sdk/pull/5347) on **OpenHands/software-agent-sdk**
+- [fix(mcp): honor x-litellm-tags on the MCP gateway's tools/list and tools/call](https://github.com/BerriAI/litellm/pull/35777) on **BerriAI/litellm**
+- [fix(responses): reject unsupported reasoning effort](https://github.com/BerriAI/litellm/pull/38897) on **BerriAI/litellm**
 <!-- prs:end -->
