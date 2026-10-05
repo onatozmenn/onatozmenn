@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [feat(agent-server): add stop operation for a single BashCommand](https://github.com/OpenHands/software-agent-sdk/pull/5348) on **OpenHands/software-agent-sdk**
-- [test(sdk): cover env-only lookup with a readable dotenv file](https://github.com/OpenHands/software-agent-sdk/pull/5347) on **OpenHands/software-agent-sdk**
-- [Verify participant requirements and prepare the final submission (WA-017)](https://github.com/onatozmenn/water-afterlife/pull/41) on **onatozmenn/water-afterlife**
-- [Revise competition materials from verified product evidence (WA-016)](https://github.com/onatozmenn/water-afterlife/pull/40) on **onatozmenn/water-afterlife**
-- [Verify accessibility, visual quality and the complete demo journey (WA-015)](https://github.com/onatozmenn/water-afterlife/pull/39) on **onatozmenn/water-afterlife**
-- [Build source-change comparison and the pinned offline demo bundle (WA-014)](https://github.com/onatozmenn/water-afterlife/pull/38) on **onatozmenn/water-afterlife**
+- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
+- [fix(agent-server): surface HTTP error body in MCP probe failures](https://github.com/OpenHands/software-agent-sdk/pull/5346) on **OpenHands/software-agent-sdk**
+- [Narrator defaults to OpenAI, JEV stays on Zen free tier](https://github.com/onatozmenn/taproot-atlas/pull/28) on **onatozmenn/taproot-atlas**
+- [Move /api/ask to repo-root api/ for Vercel](https://github.com/onatozmenn/taproot-atlas/pull/27) on **onatozmenn/taproot-atlas**
+- [Prod API: serverless POST /api/ask with audited LLM narrator](https://github.com/onatozmenn/taproot-atlas/pull/26) on **onatozmenn/taproot-atlas**
+- [Ops + docs: Vercel previews, demo script, CONTRIBUTING](https://github.com/onatozmenn/taproot-atlas/pull/25) on **onatozmenn/taproot-atlas**
 <!-- prs:end -->
