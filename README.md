@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
-- [fix(agent-server): surface HTTP error body in MCP probe failures](https://github.com/OpenHands/software-agent-sdk/pull/5346) on **OpenHands/software-agent-sdk**
-- [Narrator defaults to OpenAI, JEV stays on Zen free tier](https://github.com/onatozmenn/taproot-atlas/pull/28) on **onatozmenn/taproot-atlas**
-- [Move /api/ask to repo-root api/ for Vercel](https://github.com/onatozmenn/taproot-atlas/pull/27) on **onatozmenn/taproot-atlas**
-- [Prod API: serverless POST /api/ask with audited LLM narrator](https://github.com/onatozmenn/taproot-atlas/pull/26) on **onatozmenn/taproot-atlas**
-- [Ops + docs: Vercel previews, demo script, CONTRIBUTING](https://github.com/onatozmenn/taproot-atlas/pull/25) on **onatozmenn/taproot-atlas**
+- [ci: look for the docs feature branch in the contributor's fork](https://github.com/OpenHands/software-agent-sdk/pull/4467) on **OpenHands/software-agent-sdk**
+- [fix: keep process.cwd out of browser bundle (prod white screen)](https://github.com/onatozmenn/taproot-atlas/pull/32) on **onatozmenn/taproot-atlas**
+- [National EPA data layer + water report UI](https://github.com/onatozmenn/taproot-atlas/pull/31) on **onatozmenn/taproot-atlas**
+- [feat: America.gov-style chat UI and question-focused answers](https://github.com/onatozmenn/taproot-atlas/pull/30) on **onatozmenn/taproot-atlas**
+- [Redesign web UI with shadcn/ui plus place-query empty state and chip/tab fixes](https://github.com/onatozmenn/taproot-atlas/pull/29) on **onatozmenn/taproot-atlas**
+- [Web runs the real pipeline: MetricCard, validation line, fact chips, error states](https://github.com/onatozmenn/taproot-atlas/pull/23) on **onatozmenn/taproot-atlas**
 <!-- prs:end -->
