@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [Taproot Kit + one visual per question](https://github.com/onatozmenn/taproot-atlas/pull/36) on **onatozmenn/taproot-atlas**
-- [Keep the service map visible; stop the false-load fallback](https://github.com/onatozmenn/taproot-atlas/pull/35) on **onatozmenn/taproot-atlas**
-- [Service map fails fast with retry instead of a blank box](https://github.com/onatozmenn/taproot-atlas/pull/34) on **onatozmenn/taproot-atlas**
-- [One visual per question: EPA service-area map, lead drops, PFAS rings, violation river](https://github.com/onatozmenn/taproot-atlas/pull/33) on **onatozmenn/taproot-atlas**
-- [ci: look for the docs feature branch in the contributor's fork](https://github.com/OpenHands/software-agent-sdk/pull/4467) on **OpenHands/software-agent-sdk**
-- [fix: keep process.cwd out of browser bundle (prod white screen)](https://github.com/onatozmenn/taproot-atlas/pull/32) on **onatozmenn/taproot-atlas**
+- [fix(qa-sweep-2): ZIP 10001, PFAS follow-ups, small-town honesty, risk wording, triage Ask button, maps, dials, river counts, a11y](https://github.com/onatozmenn/taproot-atlas/pull/45) on **onatozmenn/taproot-atlas**
+- [feat(global): Open Water Record format, Ireland EPA at-risk list + chat answers, /#/global readiness page](https://github.com/onatozmenn/taproot-atlas/pull/44) on **onatozmenn/taproot-atlas**
+- [feat(impact): 2023–2025 backtest impact page, usability study, feedback API, accuracy answer](https://github.com/onatozmenn/taproot-atlas/pull/43) on **onatozmenn/taproot-atlas**
+- [feat(triage): priority queue for utilities and state programs](https://github.com/onatozmenn/taproot-atlas/pull/42) on **onatozmenn/taproot-atlas**
+- [feat(risk): next-year health-violation forecast with backtest, SHAP drivers and forecast figure](https://github.com/onatozmenn/taproot-atlas/pull/41) on **onatozmenn/taproot-atlas**
+- [feat: plain-English glossary (ppb, MCL, action level, PFAS) and context follow-ups](https://github.com/onatozmenn/taproot-atlas/pull/40) on **onatozmenn/taproot-atlas**
 <!-- prs:end -->
