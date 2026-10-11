@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(qa-sweep-2): ZIP 10001, PFAS follow-ups, small-town honesty, risk wording, triage Ask button, maps, dials, river counts, a11y](https://github.com/onatozmenn/taproot-atlas/pull/45) on **onatozmenn/taproot-atlas**
-- [feat(global): Open Water Record format, Ireland EPA at-risk list + chat answers, /#/global readiness page](https://github.com/onatozmenn/taproot-atlas/pull/44) on **onatozmenn/taproot-atlas**
-- [feat(impact): 2023–2025 backtest impact page, usability study, feedback API, accuracy answer](https://github.com/onatozmenn/taproot-atlas/pull/43) on **onatozmenn/taproot-atlas**
-- [feat(triage): priority queue for utilities and state programs](https://github.com/onatozmenn/taproot-atlas/pull/42) on **onatozmenn/taproot-atlas**
-- [feat(risk): next-year health-violation forecast with backtest, SHAP drivers and forecast figure](https://github.com/onatozmenn/taproot-atlas/pull/41) on **onatozmenn/taproot-atlas**
-- [feat: plain-English glossary (ppb, MCL, action level, PFAS) and context follow-ups](https://github.com/onatozmenn/taproot-atlas/pull/40) on **onatozmenn/taproot-atlas**
+- [fix(web): dock the question box at the bottom, ChatGPT-style](https://github.com/onatozmenn/taproot-atlas/pull/51) on **onatozmenn/taproot-atlas**
+- [fix(web): widen the conversation thread to fill the page](https://github.com/onatozmenn/taproot-atlas/pull/50) on **onatozmenn/taproot-atlas**
+- [fix(web): question box lives in the thread flow, not a separate bottom dock](https://github.com/onatozmenn/taproot-atlas/pull/49) on **onatozmenn/taproot-atlas**
+- [feat(design): Public Record — tokens, pages, figures, chat surface](https://github.com/onatozmenn/taproot-atlas/pull/48) on **onatozmenn/taproot-atlas**
+- [feat(cli): honor NO_COLOR and render plain output when piped](https://github.com/elastic/cli/pull/689) on **elastic/cli**
+- [feat(ui): Tremor components — Tracker strips, CategoryBar, BarList + Slider, SparkBarChart, Callout, Drawer](https://github.com/onatozmenn/taproot-atlas/pull/47) on **onatozmenn/taproot-atlas**
 <!-- prs:end -->
