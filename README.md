@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(web): dock the question box at the bottom, ChatGPT-style](https://github.com/onatozmenn/taproot-atlas/pull/51) on **onatozmenn/taproot-atlas**
-- [fix(web): widen the conversation thread to fill the page](https://github.com/onatozmenn/taproot-atlas/pull/50) on **onatozmenn/taproot-atlas**
-- [fix(web): question box lives in the thread flow, not a separate bottom dock](https://github.com/onatozmenn/taproot-atlas/pull/49) on **onatozmenn/taproot-atlas**
-- [feat(design): Public Record — tokens, pages, figures, chat surface](https://github.com/onatozmenn/taproot-atlas/pull/48) on **onatozmenn/taproot-atlas**
-- [feat(cli): honor NO_COLOR and render plain output when piped](https://github.com/elastic/cli/pull/689) on **elastic/cli**
-- [feat(ui): Tremor components — Tracker strips, CategoryBar, BarList + Slider, SparkBarChart, Callout, Drawer](https://github.com/onatozmenn/taproot-atlas/pull/47) on **onatozmenn/taproot-atlas**
+- [fix(web): no blue on sidebar rows; chats order by last message](https://github.com/onatozmenn/taproot-atlas/pull/61) on **onatozmenn/taproot-atlas**
+- [fix(web): sidebar footer is a Settings row; browser note sits above it](https://github.com/onatozmenn/taproot-atlas/pull/60) on **onatozmenn/taproot-atlas**
+- [feat(web): record-style scrollbar and expandable service map](https://github.com/onatozmenn/taproot-atlas/pull/59) on **onatozmenn/taproot-atlas**
+- [fix(web): opening a chat navigates to the chat route](https://github.com/onatozmenn/taproot-atlas/pull/58) on **onatozmenn/taproot-atlas**
+- [style(web): soft mid-grey light theme](https://github.com/onatozmenn/taproot-atlas/pull/57) on **onatozmenn/taproot-atlas**
+- [fix(brand): use the water droplet mark for favicons and icons](https://github.com/onatozmenn/taproot-atlas/pull/56) on **onatozmenn/taproot-atlas**
 <!-- prs:end -->
