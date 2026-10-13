@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [fix(web): no blue on sidebar rows; chats order by last message](https://github.com/onatozmenn/taproot-atlas/pull/61) on **onatozmenn/taproot-atlas**
-- [fix(web): sidebar footer is a Settings row; browser note sits above it](https://github.com/onatozmenn/taproot-atlas/pull/60) on **onatozmenn/taproot-atlas**
-- [feat(web): record-style scrollbar and expandable service map](https://github.com/onatozmenn/taproot-atlas/pull/59) on **onatozmenn/taproot-atlas**
-- [fix(web): opening a chat navigates to the chat route](https://github.com/onatozmenn/taproot-atlas/pull/58) on **onatozmenn/taproot-atlas**
-- [style(web): soft mid-grey light theme](https://github.com/onatozmenn/taproot-atlas/pull/57) on **onatozmenn/taproot-atlas**
-- [fix(brand): use the water droplet mark for favicons and icons](https://github.com/onatozmenn/taproot-atlas/pull/56) on **onatozmenn/taproot-atlas**
+- [Support wildcards in instance-to-host transfers](https://github.com/canonical/multipass/pull/5096) on **canonical/multipass**
+- [feat(cli): mark deprecated commands and flags in help with runtime warning](https://github.com/elastic/cli/pull/692) on **elastic/cli**
+- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
+- [fix(acp): abort the turn immediately when close() lands mid-prompt](https://github.com/OpenHands/software-agent-sdk/pull/4334) on **OpenHands/software-agent-sdk**
+- [fix(acp): price cache and thought tokens, and stop stacking derived cost](https://github.com/OpenHands/software-agent-sdk/pull/4444) on **OpenHands/software-agent-sdk**
+- [fix(extensions): avoid duplicate .git suffix in GitHub shorthand](https://github.com/OpenHands/software-agent-sdk/pull/4524) on **OpenHands/software-agent-sdk**
 <!-- prs:end -->
