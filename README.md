@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
-- [feat: add the briefing fixture parser](https://github.com/atlas-depot/atlas/pull/32) on **atlas-depot/atlas**
-- [ci: add pull request checks with the verify status](https://github.com/atlas-depot/atlas/pull/31) on **atlas-depot/atlas**
-- [docs: add the first contribution log entry](https://github.com/atlas-depot/atlas/pull/34) on **atlas-depot/atlas**
-- [test: prove the verify check fails on a type error (temporary)](https://github.com/atlas-depot/atlas/pull/33) on **atlas-depot/atlas**
-- [Add Turkish getting-started documentation](https://github.com/huggingface/huggingface_hub/pull/4655) on **huggingface/huggingface_hub**
+- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
+- [fix(swebench): build reports after Modal evaluations](https://github.com/OpenHands/benchmarks/pull/770) on **OpenHands/benchmarks**
+- [fix(agent-server): surface HTTP error body in MCP probe failures](https://github.com/OpenHands/software-agent-sdk/pull/5346) on **OpenHands/software-agent-sdk**
 - [fix(extensions): avoid duplicate .git suffix in GitHub shorthand](https://github.com/OpenHands/software-agent-sdk/pull/4524) on **OpenHands/software-agent-sdk**
+- [fix(file_editor): give str_replace snippets the full leading context window](https://github.com/OpenHands/software-agent-sdk/pull/4472) on **OpenHands/software-agent-sdk**
+- [fix(settings): refresh profile list even when title cleanup fails](https://github.com/OpenHands/OpenHands/pull/17521) on **OpenHands/OpenHands**
 <!-- prs:end -->
