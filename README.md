@@ -12,10 +12,10 @@ Hi I'm Onat, I like shipping AI products that make teams more efficient and I lo
 ### Recent pull requests
 
 <!-- prs:start -->
+- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
+- [feat(auth): add WorkOS browser sign-in and session boundary](https://github.com/atlas-depot/atlas/pull/57) on **atlas-depot/atlas**
 - [test(sdk): cover env-only lookup with a readable dotenv file](https://github.com/OpenHands/software-agent-sdk/pull/5347) on **OpenHands/software-agent-sdk**
 - [fix(settings): refresh profile list even when title cleanup fails](https://github.com/OpenHands/OpenHands/pull/17521) on **OpenHands/OpenHands**
 - [ci: report code and branch coverage in CI](https://github.com/atlas-depot/atlas/pull/44) on **atlas-depot/atlas**
 - [fix(agent-server): surface HTTP error body in MCP probe failures](https://github.com/OpenHands/software-agent-sdk/pull/5346) on **OpenHands/software-agent-sdk**
-- [ci: add opt-in pre-push hook](https://github.com/atlas-depot/atlas/pull/39) on **atlas-depot/atlas**
-- [fix: release conversation subject in cancel terminal update](https://github.com/OpenHands/automation/pull/490) on **OpenHands/automation**
 <!-- prs:end -->
