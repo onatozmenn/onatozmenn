@@ -1,4 +1,6 @@
-<img align="right" src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my GitHub activity" />
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my GitHub activity" />
+</p>
 
 # Onat Özmen
 
