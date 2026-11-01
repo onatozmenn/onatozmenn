@@ -1,3 +1,5 @@
+<img align="right" src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my GitHub activity" />
+
 # Onat Özmen
 
 **I build AI products from start to finish.** I work on infrastructure for AI
@@ -73,12 +75,10 @@ MCP, and Docker.
 <!-- prs:end -->
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my GitHub activity" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/onatozmenn/onatozmenn/output/snake-dark.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/onatozmenn/onatozmenn/output/snake-light.svg" width="600">
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/onatozmenn/onatozmenn/output/snake-light.svg" width="100%">
   </picture>
 </p>
+
+<p align="center"><sub>Contribution graph, redrawn every week.</sub></p>
