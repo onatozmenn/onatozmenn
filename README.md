@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="A pixel-art koi drawn from my GitHub activity" />
+  <img src="koi/koi.gif" width="320" alt="A pixel-art koi drawn from my GitHub activity" />
 </p>
 
 # Onat Özmen
