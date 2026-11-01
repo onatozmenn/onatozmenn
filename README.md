@@ -2,6 +2,8 @@
   <img src="koi/koi.gif" width="320" alt="A pixel-art koi drawn from my GitHub activity" />
 </p>
 
+<p align="center"><sub>A koi drawn from my GitHub activity, redrawn every day.</sub></p>
+
 # Onat Özmen
 
 **I build AI products from start to finish.** I work on infrastructure for AI
