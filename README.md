@@ -70,12 +70,12 @@ MCP, and Docker.
 ### Recent open-source pull requests
 
 <!-- prs:start -->
+- [test(hooks): skip stdin JSON test when jq is missing](https://github.com/docker/docker-agent/pull/4800) on **docker/docker-agent**
+- [fix: register Movie entity and add Movies migration](https://github.com/EfeDurmaz16/MoviesMicroservices/pull/1) on **EfeDurmaz16/MoviesMicroservices**
+- [feat: add movie-genre relationship CRUD](https://github.com/EfeDurmaz16/MoviesMicroservices/pull/2) on **EfeDurmaz16/MoviesMicroservices**
 - [test(sdk): cover env-only lookup with a readable dotenv file](https://github.com/OpenHands/software-agent-sdk/pull/5347) on **OpenHands/software-agent-sdk**
 - [fix(settings): refresh profile list even when title cleanup fails](https://github.com/OpenHands/OpenHands/pull/17521) on **OpenHands/OpenHands**
 - [fix(transport): bound the incoming line buffer in AsyncRwTransport](https://github.com/modelcontextprotocol/rust-sdk/pull/1049) on **modelcontextprotocol/rust-sdk**
-- [feat(agent-server): add stop operation for a single BashCommand](https://github.com/OpenHands/software-agent-sdk/pull/5348) on **OpenHands/software-agent-sdk**
-- [fix(iterate): ship real vendor manifest dirs for Codex install](https://github.com/OpenHands/extensions/pull/607) on **OpenHands/extensions**
-- [docs: point agents at schema discovery from help and README](https://github.com/elastic/cli/pull/690) on **elastic/cli**
 <!-- prs:end -->
 
 <p align="center">
