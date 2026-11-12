@@ -70,12 +70,12 @@ MCP, and Docker.
 ### Recent open-source pull requests
 
 <!-- prs:start -->
+- [fix(session): persist sub-sessions with existing rows](https://github.com/docker/docker-agent/pull/4903) on **docker/docker-agent**
+- [test(providers): add opt-in message-merging compatibility probes](https://github.com/docker/docker-agent/pull/4831) on **docker/docker-agent**
 - [fix(tools): ship the browser recording JS helpers in the wheel](https://github.com/OpenHands/software-agent-sdk/pull/4445) on **OpenHands/software-agent-sdk**
 - [test(hooks): skip stdin JSON test when jq is missing](https://github.com/docker/docker-agent/pull/4800) on **docker/docker-agent**
 - [fix: register Movie entity and add Movies migration](https://github.com/EfeDurmaz16/MoviesMicroservices/pull/1) on **EfeDurmaz16/MoviesMicroservices**
 - [feat: add movie-genre relationship CRUD](https://github.com/EfeDurmaz16/MoviesMicroservices/pull/2) on **EfeDurmaz16/MoviesMicroservices**
-- [test(sdk): cover env-only lookup with a readable dotenv file](https://github.com/OpenHands/software-agent-sdk/pull/5347) on **OpenHands/software-agent-sdk**
-- [fix(settings): refresh profile list even when title cleanup fails](https://github.com/OpenHands/OpenHands/pull/17521) on **OpenHands/OpenHands**
 <!-- prs:end -->
 
 <p align="center">
